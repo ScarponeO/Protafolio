@@ -27,9 +27,9 @@ nav ul li
 #TextPrincipal
 {
     width: 900px;
-    height: 600px;
+    height: 400px;
     background-color: #BDBDBD;
-    color:#F2F2F2;
+    color:rgb(105, 105, 105);
     text-align: center;
     margin:0 auto;
     text-align: left;
@@ -37,18 +37,40 @@ nav ul li
     padding: 20px;
     box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
 }
+
+#Proyectos
+{
+    width: 900px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 10px;
+    background-color: #BDBDBD;
+    color:rgb(105, 105, 105);
+    text-align: center;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5); 
+}
 a
 {
-    color:#FF0000;
+    color:rgb(12, 11, 11);
     font-weight: bold;
     
 }
 img
 {
-    border-radius: 20px;
+    border-radius: 30px;
+    margin-right: 10px;
 
 }
 h2
 {
     text-align: center;
+    color: rgb(48, 48, 49);
+}
+footer
+{
+    text-align: center;
+    color: rgb(48, 53, 58);
 }
