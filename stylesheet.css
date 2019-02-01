@@ -1,0 +1,45 @@
+body
+{
+    background-color: dimgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#Contenido
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1
+{
+    color: rgb(48, 48, 49);
+}
+
+nav ul li
+{
+    display:inline-block;
+    margin-right: 40px;
+    color:#1d1d1d;
+    cursor: pointer;
+    
+}
+
+#TextPrincipal
+{
+    width: 900px;
+    height: 600px;
+    background-color: #BDBDBD;
+    color:#F2F2F2;
+    text-align: center;
+    margin:0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
+a
+{
+    color:#FF0000;
+    font-weight: bold;
+    
+}
