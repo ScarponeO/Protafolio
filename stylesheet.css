@@ -1,6 +1,6 @@
 body
 {
-    background-color: dimgrey;
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -11,6 +11,7 @@ body
     margin: 0 auto;
     text-align: center;
 }
+
 h1
 {
     color: rgb(48, 48, 49);
@@ -68,6 +69,7 @@ nav ul li
     margin-top: 40px;
     
 }
+
 a
 {
     color:rgb(12, 11, 11);
