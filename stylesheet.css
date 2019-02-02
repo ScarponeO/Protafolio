@@ -57,7 +57,7 @@ nav ul li
 {
     width: 900px;
     height: 400px;
-    background-color: #A4A4A4;
+    background-color: #BDBDBD;
     color:rgb(105, 105, 105);
     text-align: center;
     text-align: left;
@@ -77,7 +77,7 @@ a
 img
 {
     border-radius: 30px;
-    margin-right: 20px;
+    margin-right: 25px;
 
 }
 h2
